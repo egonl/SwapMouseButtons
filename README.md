@@ -1,6 +1,9 @@
 # SwapMouseButtons
 Windows command line program to swap or set the primary mouse button
 
+## Download
+You can download the lastest version of SwapMouseButtons on the [Releases page](https://github.com/egonl/SwapMouseButtons/releases).
+
 ## Introduction
 I like my right mouse button to be the primary button, but for some reason the mouse driver of my Windows laptop keeps setting the left mouse button as the primary button on every reboot. So then I had to go to the Windows mouse settings and select my primary button - again and again. To make matters worse, the remote desktop environment I was using at work (VMWare Horizon) also didn't like a right primary button, and regularly -but not always- set the left mouse button as primary button.
 
